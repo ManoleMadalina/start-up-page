@@ -102,13 +102,13 @@ p {
 }
 
 .collage-img {
-  box-sizing: 70%;
+  box-sizing: 90%;
   margin-bottom: 40px;
 }
 
 .collage-img img {
-  width: 80%;
-  height: 80%;
+  width: 90%;
+  height: auto;
 }
 
 /***Text***/
